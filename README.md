@@ -14,13 +14,10 @@ step 3: display the value 4.
 step 4:stop
 
 ## Program:
-```
-/*
 Program to find the LU Decomposition of a matrix.
 Developed by: NAVEEN S
 RegisterNumber: 212222240070
-*/
-
+```
 import numpy as np
 from scipy.linalg import lu
 A=np.array(eval(input()))
