@@ -14,7 +14,6 @@ step 3: display the value 4.
 step 4:stop
 
 ## Program:
-(i) To find the L and U matrix
 ```
 /*
 Program to find the LU Decomposition of a matrix.
